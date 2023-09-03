@@ -11,4 +11,5 @@ app.use("/messages", messageRoutes);
 
 app.listen(8500, () => { console.log("Servidor operando")
 });
-//teste
+
+//checked
