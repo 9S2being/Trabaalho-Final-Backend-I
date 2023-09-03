@@ -66,6 +66,8 @@ userRoutes.post("/login", async (req,res) => {
     res.status(200).json({
         message: "Login efetuado com sucesso",
         id: user.id
+
+    ///checked
     })
 
 });
